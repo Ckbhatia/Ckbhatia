@@ -22,11 +22,6 @@ Rajasthan Google scholars virtual meetup - 29 APR 2018 ( First )
 MLH local host: Build and deploy your first site. 17 May 2020 ( Recent )
 
 
--  📞 Reach out to me: chetansain86@gmail.com or Twitter [@chetanbhatias](https://twitter.com/chetanbhatias)
--  👦 Pronouns: he/him
-
-
-
 ### 📝 Blogs
 
 ❓[Didn’t get NodeJs Buffer and Stream yet? Here’s the best explanation for you.](https://chetanblog.netlify.app/blog/nodebufferandstream)
@@ -36,3 +31,9 @@ MLH local host: Build and deploy your first site. 17 May 2020 ( Recent )
 👯‍ [The beginner-friendly basic Git guide part 1](https://chetanblog.netlify.app/blog/thebeginnerfriendlygit)
 
 Checkout 👉🏼 [chetanblog](https://chetanblog.netlify.app/)
+
+
+### ☎️ Contact 
+
+-  📞 Reach out to me: chetansain86@gmail.com or Twitter [@chetanbhatias](https://twitter.com/chetanbhatias)
+-  👦 Pronouns: he/him
