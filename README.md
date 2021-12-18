@@ -17,7 +17,7 @@ Passionate to work hard and build quality products.
 - Rajasthan Google scholars virtual meetup - 29 APR 2018 ( First )
 
 
-### 📌 Worskshops
+### 📌 Workshops
 
 - MLH local host: Build and deploy your first site. 17 May 2020 ( Recent )
 
@@ -31,6 +31,12 @@ Passionate to work hard and build quality products.
 - 👯‍ [The beginner-friendly basic Git guide part 1](https://chetanblog.netlify.app/blog/thebeginnerfriendlygit)
 
 Checkout 👉🏼 [chetanblog](https://chetanblog.netlify.app/)
+
+### 🏗 Projects
+
+[chetan's porfolio](https://ckportfolio.netlify.app/)
+
+Note: Projects are little old.
 
 
 ### ☎️ Contact 
