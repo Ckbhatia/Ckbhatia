@@ -36,10 +36,25 @@ Checkout 👉🏼 [chetanblog](https://chetanblog.netlify.app/)
 
 ### 🏗 Projects
 
-[chetan's porfolio](https://ckportfolio.netlify.app/)
+## Personal
 
-Note: Projects are little old.
+[chetan's porfolio](https://ckportfolio.netlify.app/) [Not upto-date]
 
+## Open source
+ 
+[Neon Database](https://github.com/neondatabase)
+
+[Tooljet](https://github.com/toolJet)
+
+[Hasura](https://github.com/hasura)
+
+[Hack club](https://github.com/hackclub)
+
+[Gatsby](https://github.com/gatsbyjs)
+
+[freeCodeCamp](https://github.com/freeCodeCamp)
+
+[Udacity Frontend Scholarship](https://github.com/UdacityFrontEndScholarship)
 
 ### ☎️ Contact 
 
